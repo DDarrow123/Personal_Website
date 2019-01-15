@@ -1,5 +1,6 @@
 // console.log('Hello world')
 /* eslint-disable no-console */
+// @flow
 
 import Dog from './dog'
 
